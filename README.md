@@ -7,7 +7,7 @@
 ## Features
 
 - **Course Catalog**: Browse and search through a comprehensive list of courses offered at IITK.
-- **Course Details**: Access detailed information about each course, including prerequisites, syllabus, and instructor details.
+- **Course Details**: Access detailed information about each course including credits course number and description about the course.
 - **User Accounts**: Create and manage personal accounts to save favorite courses and plan academic schedules.
 - **Interactive Interface**: Navigate through an intuitive and user-friendly interface for seamless interaction.
 
