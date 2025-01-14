@@ -69,3 +69,6 @@ The frontend will run and be available at http://localhost:3000.
 # Accessing the Application
 Open your web browser and navigate to http://localhost:3000 to access CourseHelper.
 
+# Deployed Version
+You can access the deployed application on Vercel at the following link: https://course-helper-frontend-tau.vercel.app/
+
