@@ -32,3 +32,26 @@ Ensure you have the following installed on your system:
    ```bash
    git clone https://github.com/Bhavishya-Gupta/CourseHelper.git
    cd CourseHelper
+
+2. **Install Dependencies**
+
+Navigate to the `FrontEnd` and `Backend` directories and install the required packages:
+
+```bash
+# For Frontend
+cd FrontEnd
+npm install
+
+# For Backend
+cd ../Backend
+npm install
+
+# Running the Application
+
+### Start the Backend Server:
+1. Navigate to the `Backend` directory:
+   ```bash
+   cd Backend
+
+
+
