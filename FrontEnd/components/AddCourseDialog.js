@@ -23,7 +23,7 @@ const AddCourseDialog = ({ open, onClose, onSuccess }) => {
       console.log("Course Details:", courseDetails);
 
       const response = await axios.post(
-        "https://course-helper-two.vercel.app/courses",
+        "https://course-helper-alpha.vercel.app/courses",
         courseDetails,
         {
           headers: {
