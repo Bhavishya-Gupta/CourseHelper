@@ -35,16 +35,16 @@ Ensure you have the following installed on your system:
 
 2. **Install Dependencies**
 
-Navigate to the `FrontEnd` and `Backend` directories and install the required packages:
+   Navigate to the `FrontEnd` and `Backend` directories and install the required packages:
 
-```bash
-# For Frontend
-cd FrontEnd
-npm install
-
-# For Backend
-cd ../Backend
-npm install
+   ```bash
+   # For Frontend
+   cd FrontEnd
+   npm install
+   
+   # For Backend
+   cd ../Backend
+   npm install
 
 # Running the Application
 
@@ -52,6 +52,20 @@ npm install
 1. Navigate to the `Backend` directory:
    ```bash
    cd Backend
+2. Run the following command to start the backend server:
+   ```bash
+   npm start
+The backend server will start and be available at http://localhost:5000.
 
+### Start the FrontEnd Application:
+1. Navigate to the Frontend directory:
+   ```bash
+   cd FrontEnd
+2. Run the following command to start the frontend application:
+   ```bash
+   npm start
+The frontend will run and be available at http://localhost:3000.
 
+# Accessing the Application
+Open your web browser and navigate to http://localhost:3000 to access CourseHelper.
 
